@@ -1,0 +1,32 @@
+#h2
+{
+	
+	color:#852699;
+	box-shadow:5px 5px 5px black;
+	opacity:1.0;
+	font-size:30px;
+	margin:10px;
+	padding :10px;
+}
+
+#body
+{
+	background:#CCCCCC;;
+}
+
+#div
+{
+    margin-top:50px;
+	border:double;
+	padding :30px;
+}
+
+iframe
+{
+    float:right;
+	margin:25px;
+}
+small
+{
+	margin:10px;
+}

@@ -1,0 +1,22 @@
+#back
+{
+	background-color:#CCCCCC;
+}
+h1
+{
+	text-align:center;
+	color:red;
+	text-decoration:underline;
+	font-size:50px;
+}
+.h2
+{
+	text-align:center;
+	text-decoration:underline;
+	color:#852699;
+	
+}
+small
+{
+	margin:10px;
+}

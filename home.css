@@ -1,0 +1,43 @@
+#img
+{
+	background-image: url("24.jpg");
+}
+
+#link
+{   
+	border:solid;
+	border-width:5px;
+	border-radius:20px;
+    margin:65px;
+	background-color:white;
+	height:50px;
+	width:1110px;
+}
+
+#link a 
+{
+	 display:inline-block;
+	 margin-left:30px;
+	 position: relative;
+	 clear:both;
+	 padding:10px;
+	 font-size:30px;
+}
+
+#link  a:hover
+{
+	background:green;
+}
+#para
+{
+  background-color:white;
+ margin-top:150px;
+  font-size:25px;
+  color:black;
+	
+}
+small
+{
+    margin:10px;
+	color: white;
+}
